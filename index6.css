@@ -1,0 +1,43 @@
+h1{
+  padding-left: 1rem;
+  margin-top: 2rem;
+  background-color: white;
+  height: 3.3rem;
+}
+div{
+  display: inline-block;
+  font-style: italic;
+  margin:0.5rem;
+}
+span{
+  margin-left: 1rem;
+  font-size: 1.7rem;
+  color: white;
+  background-color: black;
+}
+body{
+  background-image: linear-gradient(to left, #f7c642, #f26d7f);
+}
+form{
+  background-color: lightgrey;
+  padding: 3rem;
+}
+label{
+  margin:2rem;
+}
+input{
+  background-image: linear-gradient(to right, #f7c642, #f26d7f);
+}
+button{
+  width: 50rem;
+  height: 10rem;
+  font-size: 4rem;
+  background-color: lightgreen;
+}
+button:hover{
+  cursor: crosshair;
+  color: white;
+  font-size: 6rem;
+  background-color: orange;
+  border-color: orange;
+}
